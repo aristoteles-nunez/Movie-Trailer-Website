@@ -1,0 +1,98 @@
+[
+	{
+		"title": "Peaceful Warrior",
+		"storyline": "A chance encounter with a stranger changes the life of a college gymnast.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Peaceful_warrior.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=gegNMYvY_yg",
+		"release_year": 2006,
+		"imdb_data_title":"tt0438315"
+	},
+	{
+		"title": "3 Idiots",
+		"storyline": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\"",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=dzwErbjE0eI",
+		"release_year": 2009,
+		"imdb_data_title":"tt1187043"
+	},
+	{
+		"title": "Like Stars on Earth",
+		"storyline": "An eight year old boy is thought to be lazy and a troublemaker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/TaareZameenPar.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=DBg6HSMF9X8",
+		"release_year": 2007,
+		"imdb_data_title":"tt0986264"
+	},
+	{
+		"title": "Gattaca",
+		"storyline": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Gataca_Movie_Poster_B.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=ZppWok6SX88",
+		"release_year": 1997,
+		"imdb_data_title":"tt0119177"
+	},
+	{
+		"title": "Elite Squad",
+		"storyline": "1997, Captain Nascimento has to find a substitute for his occupation while trying to take down drug dealers and criminals before the Pope comes to Rio de Janeiro, Brazil.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/2/2a/TropaDeElitePoster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=ELlkWtNWyKY",
+		"release_year": 2007,
+		"imdb_data_title":"tt0861739"
+	},
+	{
+		"title": "The matrix",
+		"storyline": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+		"release_year": 1999,
+		"imdb_data_title":"tt0133093"
+	},
+	{
+		"title": "Children of heaven",
+		"storyline": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Children_of_heaven.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=6Eynoi8yFTs",
+		"release_year": 1997,
+		"imdb_data_title":"tt0118849"
+	},
+	{
+		"title": "Terminator 2",
+		"storyline": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=eajuMYNYtuY",
+		"release_year": 1991,
+		"imdb_data_title":"tt0103064"
+	},
+	{
+		"title": "Trash",
+		"storyline": "Set in Brazil, three kids who make a discovery in a garbage dump soon find themselves running from the cops and trying to right a terrible wrong.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/0/03/Trash_poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=PX1ZuBJMT40",
+		"release_year": 2014,
+		"imdb_data_title":"tt1921149"
+	},
+	{
+		"title": "Starship Troopers",
+		"storyline": "Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/d/df/Starship_Troopers_-_movie_poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=SvDXXv7-bBY",
+		"release_year": 1997,
+		"imdb_data_title":"tt0120201"
+	},
+	{
+		"title": "The Shawshank Redemption",
+		"storyline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+		"release_year": 1994,
+		"imdb_data_title":"tt0111161"
+	},
+	{
+		"title": "The Guardian",
+		"storyline": "A high school swim champion with a troubled past enrolls in the U.S. Coast Guard's \"A\" School, where legendary rescue swimmer Ben Randall teaches him some hard lessons about loss, love, and self-sacrifice.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Guardian_%282006_film%29_promotional_poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=xnih2FX3y_4",
+		"release_year": 2006,
+		"imdb_data_title":"tt0406816"
+	}
+]
