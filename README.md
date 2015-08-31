@@ -1,5 +1,4 @@
 
-[TOC]
 # Movie Trailer Website
 Program that list a serie of your favorite movies, with title, release year, youtube trailer and IMDb rating.
 

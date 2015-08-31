@@ -7,7 +7,7 @@ def read_data_from_json_file(file_name):
 
 	Args:
 		file_name: Exactly path of the file, if the file is in the same 
-			directory of the program just pass the name.
+				   directory of the program just pass the name.
 	Returns:
 		A python Dict Object from a valid Json Document.
 	Raises:
