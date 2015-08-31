@@ -188,8 +188,9 @@ def create_movie_tiles_content(movies):
 
 
 def open_movies_page(movies):
-    """This method join the dynamic content (muvie list) with in the static content (header and footer), 
-    Writes it into a file,  and display that file in a browser.
+    """This method join the dynamic content (muvie list) with in the 
+        static content (header and footer), writes it into a file,  
+        and display that file in a browser.
 
     Args:
         movies: A list of movie objects

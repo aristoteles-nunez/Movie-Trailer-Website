@@ -53,7 +53,7 @@ To add or replace the movies listed, edit the file `data.json`. This file contai
 
 So you must replace, add or modify that information to match with your own favorites movies.
 
-In the section [About IMDb Plugin](#markdown-header-about-imdb-plugin) you can find information about how to get `imdb_data_title`.
+In the section [About IMDb Plugin](#about-imdb-plugin) you can find information about how to get `imdb_data_title`.
 
 Remember that all the data within `data.json` must be well formed JSON documents.
 
