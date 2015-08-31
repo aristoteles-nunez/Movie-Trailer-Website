@@ -21,12 +21,12 @@ This program is compatible with `Python 2.7.x` and `Python 3.x`.
 
 # Program Execution
 
-* Download the compressed file `movies.tar.gz`.
-* Descompress the file. It will create `movies` directory
-* Open a terminal and go to the `movies` directory just created.
+* Download the compressed file `Movie-Trailer-Website-master.zip`.
+* Descompress the file. It will create `Movie-Trailer-Website-master` directory
+* Open a terminal and go to the `Movie-Trailer-Website-master` directory just created.
 
 ```
-cd path_to_downloads_folder/movies/
+cd path_to_downloads_folder/Movie-Trailer-Website-master/
 ```
 
 * Executes the program with:
